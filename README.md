@@ -6,6 +6,6 @@ Pages required by the stores: `/privacy`, `/support`.
 
 Deploys to GitHub Pages from `main` (`.github/workflows/pages.yml`). `CNAME` binds `slipsend.app`.
 
-Colors match the app's greyscale tokens. Text is AAA contrast in light, dark, and `prefers-contrast: more`.
+Palette and typography follow the app: graphite, warm neutrals, indigo accent. Every text pair is AAA (7:1) in light, dark, and `prefers-contrast: more`. The header band is always navy so the white ribbon S in the logo stays visible.
 
 Store listing rule: "Concur" and "Workday" appear only in descriptive copy ("works with SAP Concur and Workday Expenses email receipts"), never in names or titles.
