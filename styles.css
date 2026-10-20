@@ -63,6 +63,7 @@ p, li { max-width: 65ch; }
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 1.25rem 1.5rem; margin: 1rem 0; }
 .card h3 { margin: 0 0 .25rem; font-size: 1.1875rem; }
 .card p { margin: 0; color: var(--text-secondary); }
+.card .actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1rem; }
 ul.plain { padding-left: 1.25rem; }
 footer { border-top: 1px solid var(--border); margin-top: 3rem; color: var(--text-secondary); font-size: .9375rem; }
 footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: .25rem 1rem; padding: 0; margin: 0 0 .5rem; }
